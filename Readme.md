@@ -16,3 +16,4 @@
 ## Certificate
 
 * **Coursera-Certificate.pdf** - Certificate of completion for a deep learning course.
+* **GenAI_course-1.png** - Certificate of completion for a generative-ai course1.

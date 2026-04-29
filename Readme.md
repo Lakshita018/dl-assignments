@@ -12,6 +12,9 @@
 * **Lab4_Abalone-Age.ipynb** - Multilayer perceptron with backpropagation to predict the age of abalone from physical measurements.
 * **Lab5_digits-analysis.ipynb** - Analysis of handwritten digit classification models.
 * **Lab6_breast-cancer.ipynb** - Logistic regression model for breast cancer classification.
+* **Lab7.ipynb** - Classification problem using ResNet50, Google Inception Net & EfficientNet.
+* **Lab8.ipynb** - Forecast the electrical consumption for next 10 years using RNN, LSTM, GRU & Vision transformer.
+* **Lab9.ipynb** - Implemented problem by using GAN, SRGAN & ESRGAN
 
 ## Certificate
 

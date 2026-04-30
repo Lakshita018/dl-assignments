@@ -4,6 +4,10 @@
 **Roll No:** 102303505  
 **Group:** 3C35  
 
+## DL_Project
+* **Report-DL_Project.ipynb** - Report of the rice leaf disease project.
+* **Code-DL_Project.ipynb** - Implemented code of project.
+
 ## Files Description
 
 * **Lab1_gates.ipynb** - Perceptron implementation for AND, OR, NAND and NOR logic gates.
@@ -14,7 +18,8 @@
 * **Lab6_breast-cancer.ipynb** - Logistic regression model for breast cancer classification.
 * **Lab7.ipynb** - Classification problem using ResNet50, Google Inception Net & EfficientNet.
 * **Lab8.ipynb** - Forecast the electrical consumption for next 10 years using RNN, LSTM, GRU & Vision transformer.
-* **Lab9.ipynb** - Implemented problem by using GAN, SRGAN & ESRGAN
+* **Lab9.ipynb** - Implemented problem by using GAN, SRGAN & ESRGAN.
+
 
 ## Certificate
 
